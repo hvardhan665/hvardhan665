@@ -78,7 +78,7 @@ App Store: https://apps.apple.com/in/app/myaie-student-app/id1467792793
   - **Task Assignments**  
   - **Exam Forms**  
   - **Homepage Upgrades**  
-  - **Calendar (Date Picker)**  
+  - **Calendar**  
   - **Video Player Integrations**  
   - **HTML Content Processing**  
 - Delivered sprint-wise updates and submitted builds.  
