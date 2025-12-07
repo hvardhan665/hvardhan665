@@ -95,6 +95,21 @@ App Store: https://apps.apple.com/in/app/shreemap-measure-and-overlay/id15065765
 
 ---
 
+### **Bulir — On-Demand Services Platform (Consumer + Provider Apps)**  
+App Store: (Not publicly available — client project)
+**What I built:**
+Developed both apps from scratch — a user app and a service-provider app.
+Designed and implemented complete UI/UX flows across ~150 screens (user app) and 50–80 screens (provider app).
+Built major features including:
+User login/logout & authentication flows
+Home screen with service categories
+Task creation, booking, and scheduling flows
+Service provider task management, status updates, and dashboard
+Implemented smooth navigation, data handling, and real-time updates to ensure seamless interactions between users and service providers.
+Delivered pixel-perfect UI, strong performance, and end-to-end production-ready functionality.
+
+---
+
 ### **The Vibes App**  
 App Store: https://apps.apple.com/in/app/the-vibes-app/id1523786052  
 **What I built:**  
